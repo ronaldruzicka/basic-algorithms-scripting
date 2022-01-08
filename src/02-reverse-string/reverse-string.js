@@ -1,3 +1,10 @@
+/**
+ * Reverse a String
+ *
+ * Reverse the provided string.
+ * You may need to turn the string into an array before you can reverse it.
+ * Your result must be a string.
+ */
 export function reverseString(str) {
   // With "array.reverse"
   // const result = [...str].reverse().join('');
